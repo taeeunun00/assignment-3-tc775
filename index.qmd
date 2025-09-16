@@ -1,10 +1,14 @@
 ---
-title: "Assignment3 by Tae Eun"
+title: "This is Assignment 3 by Tae Eun"
 Format: html
 ---
 
-Tae Eun: https://github.com/taeeunun00
+**Tae Eun's github:**
 
-Lok: https://github.com/sapkotal
+https://github.com/taeeunun00
+
+**My partner, Lok's github:**
+
+https://github.com/sapkotal
 
 ![Collaborative work through Github!](GettyImages-1127997676-7836cc370bb24570ba734dc2503a6d42.jpg)

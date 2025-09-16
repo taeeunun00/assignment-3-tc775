@@ -3,7 +3,9 @@ title: "Tae Eun"
 Format: html
 ---
 
--   My name is Tae Eun Choi
+![](Profile.JPEG){width="222"}
+
+-   My name is Tae Eun Choi.
 
 -   I am a Master student in Apparel Design at Cornell University.
 
