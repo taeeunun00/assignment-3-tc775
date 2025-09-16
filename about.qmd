@@ -11,4 +11,4 @@ Format: html
 
 -   This is my second year at Cornell University.
 
--   This line is addition from Lok
+-   This line is addition from Lok.
