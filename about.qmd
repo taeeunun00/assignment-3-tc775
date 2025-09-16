@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "Tae Eun"
+Format: html
 ---
 
-About this site
+-   My name is Tae Eun Choi
+
+-   I am a Master student in Apparel Design at Cornell University.
+
+-   This is my second year at Cornell University.
