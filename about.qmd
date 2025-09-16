@@ -10,3 +10,5 @@ Format: html
 -   I am a Master student in Apparel Design at Cornell University.
 
 -   This is my second year at Cornell University.
+
+-   This line is addition from Lok
